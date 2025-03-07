@@ -1,4 +1,4 @@
-5170
+5172
 110C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@swc\helpers\_\_type_of\package.json133852918010144452 0
 125C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\handlebars\dist\amd\handlebars\decorators\inline.js133852922797604027 0
 84C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\parcel\lib133852917967309353 1
@@ -48,7 +48,7 @@
 108C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\electron-to-chromium\versions.json133852917975529403 0
 81C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\pkg-dir133858368604494399 1
 105C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@swc\helpers\_\_read_only_error133852918008502449 1
-73C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules133858368611175620 1
+73C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules133858369417446555 1
 110C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\utility-types\dist\mapped-types.d.ts133852917978259908 0
 99C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@swc\types\assumptions.js133852917964492129 0
 131C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133852917958435045 0
@@ -120,6 +120,9 @@
 78C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\.bin133858368610762498 1
 108C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\htmlnano\lib\modules\minifySvg.mjs133852917989698200 0
 92C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\slash\package.json133858368603438472 0
+85C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\ansi-styles133852917967665189 1
+80C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\.cache133858369417451856 1
+116C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\css-counters.js133852917996130925 0
 90C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\entities\LICENSE133852917956426435 0
 84C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\filenamify133858368605078053 1
 88C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\lmdb\README.md133852917996210240 0
@@ -164,7 +167,6 @@
 94C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\path-exists\index.js133858368603902036 0
 98C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\supports-color\readme.md133852917967816152 0
 86C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite133852918023509053 1
-85C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\ansi-styles133852917967665189 1
 82C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\argparse133852917972872071 1
 127C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133852917986064774 0
 87C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\parent-module133852917966699289 1
@@ -352,11 +354,11 @@
 146C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133852917967595193 0
 90C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\minimist\example133852922794987936 1
 86C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\import-fresh133852917967645210 1
+127C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.d.ts.map133852917974046080 0
 94C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\globals\globals.json133852917966777411 0
 95C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\packager-wasm133852917971360932 1
 84C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\is-extglob133852917966716922 1
 104C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\posthtml\node_modules\domutils133852917978063705 1
-127C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\posthtml\node_modules\htmlparser2\lib\Parser.d.ts.map133852917974046080 0
 96C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\uglify-js\bin\uglifyjs133852922793538733 0
 99C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\semver\functions\rsort.js133852917981009090 0
 109C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\postcss-value-parser\lib\index.d.ts133852917973244547 0
@@ -789,9 +791,9 @@
 117C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\css-selection.js133852918001578805 0
 130C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133852917986558626 0
 92C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\source-map\LICENSE133852922793701163 0
-94C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\domhandler\readme.md133852917975707862 0
 103C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\domutils\lib\esm\helpers.d.ts133852917984370821 0
 91C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\parcel\lib\cli.js133852917967770496 0
+94C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\domhandler\readme.md133852917975707862 0
 105C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\utility-types\dist\index.js.map133852917973574192 0
 115C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\packager-wasm\src\WasmPackager.js133852917970524973 0
 111C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\lmdb\dependencies\lz4\lib\dll\example133852917997475320 1
@@ -1719,8 +1721,8 @@
 107C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\escape-string-regexp\package.json133858368603423395 0
 107C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\parcel-transformer-handlebars\lib133852924886213147 1
 120C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\entities\lib\generated\decode-data-html.js.map133852917979714175 0
-113C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\parcel-transformer-handlebars\README.md133852924886291008 0
 107C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\make-dir\node_modules\.bin\semver133858368610762498 0
+113C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\parcel-transformer-handlebars\README.md133852924886291008 0
 113C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133852917986538557 0
 111C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\entities\lib\generated\encode-html.js133852917976181165 0
 95C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\neo-async\constant.js133852922795104569 0
@@ -2405,7 +2407,6 @@
 124C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\htmlnano\lib\modules\minifyConditionalComments.mjs133852917989412426 0
 86C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\js-yaml\dist133852917980608271 1
 118C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\css-line-clamp.js133852917998436217 0
-112C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\types-internal\lib\unsafe.d.ts133852917979403902 0
 90C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\js-yaml\index.js133852917975335452 0
 85C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\js-yaml\lib133852917980141209 1
 127C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js133852918006840008 0
@@ -3230,6 +3231,7 @@
 117C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\canUseDynamicImport.js.map133852917978199183 0
 118C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\iframe-sandbox.js133852918011861036 0
 104C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\defaults.d.ts133852917982822852 0
+89C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\.cache\gh-pages133858369806706407 1
 108C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\defaults.d.ts.map133852917978355439 0
 102C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\defaults.js133852917967133433 0
 102C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@swc\helpers\src\_update.mjs133852918013865051 0
@@ -3628,7 +3630,6 @@
 100C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\watcher\wrapper.js133852917981598576 0
 115C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@swc\helpers\src\_array_without_holes.mjs133852918010880348 0
 126C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\css-content-visibility.js133852917996079450 0
-116C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\css-counters.js133852917996130925 0
 107C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\es6.js133852918008331983 0
 119C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\css-crisp-edges.js133852917996183571 0
 118C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\css-cross-fade.js133852917996210240 0
@@ -4497,6 +4498,7 @@
 120C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\types-internal\lib\PackageManager.d.ts133852917978972827 0
 117C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\types-internal\lib\PackageName.d.ts133852917979058077 0
 117C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\types-internal\lib\SemverRange.d.ts133852917979183589 0
+112C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\types-internal\lib\unsafe.d.ts133852917979403902 0
 95C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\types\LICENSE133852917956838867 0
 100C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\types\package.json133852917965509200 0
 100C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@parcel\types\src\index.js133852917963839939 0
