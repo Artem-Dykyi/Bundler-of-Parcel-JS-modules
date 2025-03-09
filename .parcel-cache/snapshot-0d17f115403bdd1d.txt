@@ -2,7 +2,7 @@
 110C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@swc\helpers\_\_type_of\package.json133852918010144452 0
 125C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\handlebars\dist\amd\handlebars\decorators\inline.js133852922797604027 0
 84C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\parcel\lib133852917967309353 1
-73C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\package.json133858368611262928 0
+73C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\package.json133860111719832640 0
 83C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@mischnic133852917937704989 1
 91C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\lmdb\src\misc.cpp133852917990145710 0
 105C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\lightningcss\node\index.js.flow133852917970464878 0
