@@ -3231,7 +3231,7 @@
 117C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\canUseDynamicImport.js.map133852917978199183 0
 118C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\iframe-sandbox.js133852918011861036 0
 104C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\defaults.d.ts133852917982822852 0
-89C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\.cache\gh-pages133858369806706407 1
+89C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\.cache\gh-pages133860112622956045 1
 108C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\defaults.d.ts.map133852917978355439 0
 102C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\defaults.js133852917967133433 0
 102C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@swc\helpers\src\_update.mjs133852918013865051 0
