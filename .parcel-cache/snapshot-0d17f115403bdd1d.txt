@@ -2,7 +2,7 @@
 110C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@swc\helpers\_\_type_of\package.json133852918010144452 0
 125C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\handlebars\dist\amd\handlebars\decorators\inline.js133852922797604027 0
 84C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\parcel\lib133852917967309353 1
-73C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\package.json133860111719832640 0
+73C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\package.json133860132114192701 0
 83C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@mischnic133852917937704989 1
 91C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\lmdb\src\misc.cpp133852917990145710 0
 105C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\lightningcss\node\index.js.flow133852917970464878 0
@@ -35,7 +35,7 @@
 85C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\locate-path133858368604400652 1
 105C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\regions\TG.js133852918020399513 0
 100C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\uglify-js\lib\transform.js133852922795580565 0
-71C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\.gitignore133858175586214241 0
+71C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\.gitignore133865126503365167 0
 82C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\get-port133852917967760512 1
 80C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\semver133852917983875028 1
 114C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\type-fest\source\fixed-length-array.d.ts133852917977545478 0
@@ -3231,7 +3231,7 @@
 117C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\canUseDynamicImport.js.map133852917978199183 0
 118C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\caniuse-lite\data\features\iframe-sandbox.js133852918011861036 0
 104C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\defaults.d.ts133852917982822852 0
-89C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\.cache\gh-pages133860112622956045 1
+89C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\.cache\gh-pages133865126176454816 1
 108C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\defaults.d.ts.map133852917978355439 0
 102C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\cosmiconfig\dist\defaults.js133852917967133433 0
 102C:\Users\Artem\Documents\GitHub\Bundler-of-Parcel-JS-modules\node_modules\@swc\helpers\src\_update.mjs133852918013865051 0
